@@ -25,25 +25,3 @@ Materi disusun bertahap dari pemahaman sintaks dasar hingga logika pengolahan da
 
 6. **Logika Algoritma Dasar untuk Analisis**
    Latihan pemrosesan tabel data sederhana, agregasi manual (menghitung rata-rata, filtering baris, pivoting sederhana), dan validasi input.
-
-## Struktur Direktori
-
-```text
-├── 01-data-types/
-│   ├── string_manipulation.py
-│   └── number_operations.py
-├── 02-data-structures/
-│   ├── lists_and_tuples.py
-│   └── dict_and_sets.py
-├── 03-control-flow/
-│   ├── conditionals.py
-│   └── loops_and_comprehensions.py
-├── 04-functions/
-│   └── custom_functions.py
-├── 05-file-handling/
-│   ├── parse_csv.py
-│   └── sample_data.csv
-├── data/
-│   └── raw/
-├── requirements.txt
-└── README.md
